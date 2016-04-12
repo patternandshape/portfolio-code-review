@@ -1,9 +1,24 @@
-Author: Molly Curtin
-Project: Web Programming Portfolio Site
+# Personal Portfolio
 
-Project was to create a personal site featuring our web programming work up until this point.
+January 15, 2016
 
-Portfolio can be viewed at:
-http://patternandshape.github.io
+##### By Molly Curtin
 
-©2016 Molly Curtin, Creative Commons Attribution-Non-Commercial (CC BY-NC)
+### Description
+
+A website thats serves as a personal site featuring my web programming work up until this point.
+
+##### Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Bootstrap
+* Git
+
+##### License
+
+*This software is licensed under the MIT license.*
+
+&copy;2016 **Molly Curtin**
